@@ -225,7 +225,7 @@ input[type="submit"]:hover, input[type="submit"]:focus{
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/anasty17/mirror-leech-telegram-bot"><i class="fab fa-github"></i></a>
+        <a href="https://www.github.com/"><i class="fab fa-github"></i></a>
         <a href="https://t.me/AnshumanPM"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
@@ -617,7 +617,7 @@ section span{
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/anasty17/mirror-leech-telegram-bot"><i class="fab fa-github"></i></a>
+        <a href="https://www.github.com/"><i class="fab fa-github"></i></a>
         <a href="https://t.me/AnshumanPM"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
