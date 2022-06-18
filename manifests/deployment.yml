@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: "anshumanmirrorbot-820d"
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: "anshumanmirrorbot-820d"
+  template:
+    metadata:
+      labels:
+        app: "anshumanmirrorbot-820d"
+    spec:
+      containers:
+        - name: "anshumanmirrorbot-820d"
+          image: "anshumanmirrorbot.azurecr.io/anshumanmirrorbot"
+          ports:
+          - containerPort: 80
